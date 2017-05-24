@@ -1,0 +1,49 @@
+#match{
+	border: none;
+	border-radius: 5px;
+	height: 50px;
+	background-color: darkslategrey;
+	color: white;
+}
+#schwarz{
+	position: absolute;
+	background: black;
+	color: white;
+	height: 100%;
+	width: 100%;
+	justify-content: space-around;
+}
+#container{
+	position: relative;
+	display: block;
+	
+}
+#its{
+	margin-top: 7%;
+	text-align: center;
+}
+#ilike{
+	position: relative;
+	text-align: center;
+}
+.circle{
+	height: 5%;
+	border-radius: 50%;
+	padding: 2%;
+	margin-bottom: 10%;
+}
+#buidl{
+	display: flex;
+	position: relative;
+	justify-content:center;
+}
+#manno button{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	display: block;
+	color: black;
+	font-weight: 100;
+	width: 80%;;
+	margin-top:1%;
+}
