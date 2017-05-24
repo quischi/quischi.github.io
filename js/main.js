@@ -88,7 +88,7 @@ function accept() {
 		alert("mache ein Photo und gib einen Namen ein");
 	}
 	console.log(name);
-	document.getElementById('deinname').innerHTML= name;
+	document.getElementById('identitaet').innerHTML= name;
 };
 
 function no(){
