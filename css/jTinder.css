@@ -251,6 +251,7 @@ body {
     width: 304px;
     margin: 0 auto;
     overflow: hidden;
+    position: absolute;
     bottom: 70px;
 }
 
